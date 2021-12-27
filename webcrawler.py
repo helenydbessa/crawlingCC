@@ -18,4 +18,4 @@ for song in nameList2:
             linkList.append(link.attrs['href'])
             #print(link.attrs['href'])
 
-print(linkList)
+#print(linkList)
